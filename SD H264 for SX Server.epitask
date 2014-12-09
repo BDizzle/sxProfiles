@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task version="7" format="typed">
+    <properties name="configuration">
+        <bool name="create-dot-file">no</bool>
+        <int name="demo">0</int>
+        <string name="dest-file-extension">mp4</string>
+        <int name="max-queue-limit">8</int>
+        <int name="min-queue-limit">4</int>
+        <string name="setting-xml"><![CDATA[<?xml version="1.0"?>
+<job version="1.1">
+  <meta-data meta-file="no">
+    <meta-group type="movie">
+      <meta name="inPoint" value="0" />
+      <meta name="outPoint" value="0" />
+      <meta name="tcHour" value="0" />
+      <meta name="tcMin" value="0" />
+      <meta name="tcSec" value="0" />
+      <meta name="tcFrame" value="0" />
+      <meta name="tcKeepSource" value="1" />
+    </meta-group>
+  </meta-data>
+  <importer media="movie" in="!SRCFILE!">
+    <audio-out id="audio_50599086_importer" />
+    <video-out id="video_14521108_importer" />
+  </importer>
+  <filter media="video" type="frmr">
+    <in id="video_14521108_importer" />
+    <out id="video_22395212_frmr_filter" />
+    <option name="fractional" value="0" />
+    <option name="type" value="1" />
+    <option name="framerate" value="29.97" />
+    <option name="fraction" value="2" />
+    <option name="itc_first_pair" value="1" />
+  </filter>
+  <filter media="video" type="size">
+    <in id="video_22395212_frmr_filter" />
+    <out id="video_71242134_size_filter" />
+    <option name="presets" value="8" />
+    <option name="width" value="720" />
+    <option name="height" value="480" />
+    <option name="aspect-mode" value="1" />
+    <option name="crop-top" value="0" />
+    <option name="crop-bottom" value="0" />
+    <option name="crop-left" value="0" />
+    <option name="crop-right" value="0" />
+    <option name="mode" value="0" />
+    <option name="sharpening" value="0" />
+    <option name="lowpass" value="0" />
+    <option name="no-scale" value="2" />
+    <option name="pixel-aspect-compensation" value="1" />
+    <option name="output-display-aspect-ratio" value="1" />
+    <option name="paspMode" value="1" />
+    <option name="hSpacing" value="1" />
+    <option name="vSpacing" value="1" />
+  </filter>
+  <encoder media="video" type="x264">
+    <in id="video_71242134_size_filter" />
+    <out id="video_66506329_x264_compressor" />
+    <option name="rate_control_method" value="0" />
+    <option name="bitrate" value="2048" />
+    <option name="hrd_mode" value="0" />
+    <option name="vbv_size" value="1000" />
+    <option name="vbv_max_bitrate" value="1000" />
+    <option name="rate_factor_constant" value="23" />
+    <option name="preset" value="4" />
+    <option name="tune" value="0" />
+    <option name="keyframe_type" value="1" />
+    <option name="max_key_frame_distance" value="30" />
+    <option name="num_reference_frames" value="-1" />
+    <option name="adaptive_b_frames" value="-1" />
+    <option name="b_frames" value="-1" />
+    <option name="b_frames_as_reference" value="0" />
+    <option name="override_lookahead" value="0" />
+    <option name="num_lookahead_frames" value="40" />
+    <option name="multipass" value="1" />
+    <option name="dar" value="0" />
+    <option name="profile" value="2" />
+    <option name="level" value="0" />
+    <option name="use_cabac" value="1" />
+    <option name="num_slices" value="1" />
+    <option name="deblocking_filter" value="-1" />
+    <option name="deblocking_alpha" value="0" />
+    <option name="deblocking_beta" value="0" />
+    <option name="me_method" value="-1" />
+    <option name="me_range" value="16" />
+    <option name="override_mv_range" value="0" />
+    <option name="mv_range" value="256" />
+    <option name="noise_reduction" value="0" />
+    <option name="weighted_p_pred" value="-1" />
+    <option name="fake_interlace" value="0" />
+    <option name="repeat_headers" value="0" />
+    <option name="open_gop" value="0" />
+    <option name="blu_ray_comp" value="0" />
+    <option name="cc_type" value="0" />
+    <option name="cc_fields" value="0" />
+  </encoder>
+  <packetizer media="video" type="h264">
+    <in id="video_66506329_x264_compressor" />
+    <out id="video_59802630_h264_packetizer" />
+    <option name="packetSizeLimit" value="800" />
+  </packetizer>
+  <filter media="audio" type="chan">
+    <in id="audio_50599086_importer" />
+    <out id="audio_53690912_chan_filter" />
+    <option name="channels" value="2" />
+  </filter>
+  <filter media="audio" type="smpr">
+    <in id="audio_53690912_chan_filter" />
+    <out id="audio_53697612_smpr_filter" />
+    <option name="samplerate" value="48000" />
+  </filter>
+  <encoder media="audio" type="mp4a">
+    <in id="audio_53697612_smpr_filter" />
+    <out id="audio_40678487_mp4a_compressor" />
+    <option name="bitrate" value="128" />
+    <option name="mode" value="1" />
+    <option name="keep_codec_delay" value="1" />
+    <option name="use_ps" value="0" />
+  </encoder>
+  <packetizer media="audio" type="mp4a">
+    <in id="audio_40678487_mp4a_compressor" />
+    <out id="audio_44686524_mp4a_packetizer" />
+    <option name="encoding" value="mpeg4-generic" />
+    <option name="packetSize" value="1000" />
+  </packetizer>
+  <exporter media="movie" type="moov" out="!DSTPATH!/!NAME!_!SETTING!.mov">
+    <in id="video_66506329_x264_compressor" />
+    <in id="video_59802630_h264_packetizer" />
+    <in id="audio_40678487_mp4a_compressor" />
+    <in id="audio_44686524_mp4a_packetizer" />
+    <option name="exporter_option_id" value="exporter_moov_mp4" />
+    <option name="exporter_file_end_id" value="mp4" />
+    <option name="video_enable_disable_discard_id" value="0" />
+    <option name="video_encoder_option_id" value="compressor_x264_undefined_id" />
+    <option name="audio_enable_disable_discard_id" value="0" />
+    <option name="audio_encoder_option_id" value="compressor_mp4a_undefined_id" />
+    <option name="enable_hinting_option_id" value="0" />
+    <option name="movieType" value="kMP4" />
+    <option name="ODSM" value="1" />
+  </exporter>
+</job>]]></string>
+        <bool name="sns">no</bool>
+        <int name="sns-max-splits">16</int>
+        <int name="sns-min-time">30</int>
+        <int name="sns-split-on-gop-size">1</int>
+        <special name="source-url">#deferred-var-string#dest-url</special>
+        <bool name="use-local-temp">no</bool>
+    </properties>
+    <string name="id">wtid:task/regular/ogencoder/1.0#547e815e</string>
+    <string name="name">SD H264 for SX Server</string>
+    <list name="outputs">
+        <properties>
+            <string name="id">bitrate-kbps</string>
+            <list name="targets"/>
+        </properties>
+        <properties>
+            <string name="id">bitrate-mbps</string>
+            <list name="targets"/>
+        </properties>
+        <properties>
+            <string name="id">duration-s</string>
+            <list name="targets"/>
+        </properties>
+        <properties>
+            <string name="id">duration-hms</string>
+            <list name="targets"/>
+        </properties>
+        <properties>
+            <string name="id">pixel-dimensions</string>
+            <list name="targets"/>
+        </properties>
+        <properties>
+            <string name="id">samplerate</string>
+            <list name="targets"/>
+        </properties>
+        <properties>
+            <string name="id">framerate</string>
+            <list name="targets"/>
+        </properties>
+        <properties>
+            <string name="id">input-duration-s</string>
+            <list name="targets"/>
+        </properties>
+        <properties>
+            <string name="id">input-duration-hms</string>
+            <list name="targets"/>
+        </properties>
+        <properties>
+            <string name="id">input-pixel-dimensions</string>
+            <list name="targets"/>
+        </properties>
+        <properties>
+            <string name="id">input-samplerate</string>
+            <list name="targets"/>
+        </properties>
+        <properties>
+            <string name="id">input-framerate</string>
+            <list name="targets"/>
+        </properties>
+    </list>
+    <string name="plugin-id">task/regular/ogencoder/1.0</string>
+    <int name="status">0</int>
+</task>
