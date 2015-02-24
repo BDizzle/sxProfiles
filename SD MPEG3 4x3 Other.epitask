@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task version="7" format="typed">
+    <properties name="configuration">
+        <string name="dest-file-extension">mpg</string>
+        <string name="setting-xml"><![CDATA[
+<job version="1.1">
+    <description></description>
+    <meta-data meta-file="no">
+        <meta-group type="creator">
+            <meta name="product" value="Episode Pro"></meta>
+            <meta name="platform" value="darwin"></meta>
+            <meta name="version" value="5.1"></meta>
+        </meta-group>
+        <meta-group type="movie">
+            <meta name="tcSec" value="0"></meta>
+            <meta name="tcKeepSource" value="1"></meta>
+            <meta name="tcHour" value="0"></meta>
+            <meta name="tcMin" value="0"></meta>
+            <meta name="tcFrame" value="0"></meta>
+        </meta-group>
+    </meta-data>
+    <importer in="!SRCFILE!" media="movie">
+        <video-out id="video_2_importer"></video-out>
+        <audio-out id="audio_2_importer"></audio-out>
+    </importer>
+    <filter type="chmp" media="audio">
+        <in id="audio_2_importer"></in>
+        <out id="audio_3_chmp_filter"></out>
+        <option name="private::defaults" value="0"></option>
+        <option name="in_channels" value="2"></option>
+        <option name="out_channels" value="2"></option>
+        <option name="private::clear" value="0"></option>
+        <option name="channel_01_to_01" value="1"></option>
+        <option name="channel_02_to_02" value="1"></option>
+    </filter>
+    <encoder type="mp2a" media="audio">
+        <in id="audio_3_chmp_filter"></in>
+        <out id="audio_4_mp2a_encoder"></out>
+        <option name="bitrate" value="128"></option>
+        <option name="layer" value="2"></option>
+        <option name="psycho-model" value="2"></option>
+    </encoder>
+    <filter type="frmr" media="video">
+        <in id="video_2_importer"></in>
+        <out id="video_5_frmr_filter"></out>
+        <option name="framerate" value="29.969999"></option>
+        <option name="fractional" value="0"></option>
+        <option name="fraction" value="2"></option>
+        <option name="type" value="1"></option>
+        <option name="itc_first_pair" value="1"></option>
+    </filter>
+    <filter type="size" media="video">
+        <in id="video_5_frmr_filter"></in>
+        <out id="video_6_size_filter"></out>
+        <option name="presets" value="8"></option>
+        <option name="pixel-aspect-compensation" value="1"></option>
+        <option name="lowpass" value="0"></option>
+        <option name="crop-right" value="0"></option>
+        <option name="no-scale" value="3"></option>
+        <option name="crop-left" value="0"></option>
+        <option name="paspMode" value="1"></option>
+        <option name="hSpacing" value="1"></option>
+        <option name="aspect-mode" value="0"></option>
+        <option name="width" value="720"></option>
+        <option name="output-display-aspect-ratio" value="1"></option>
+        <option name="vSpacing" value="1"></option>
+        <option name="crop-bottom" value="0"></option>
+        <option name="height" value="480"></option>
+        <option name="mode" value="0"></option>
+        <option name="sharpening" value="0.000000"></option>
+        <option name="crop-top" value="0"></option>
+    </filter>
+    <encoder type="mp2v" media="video">
+        <in id="video_6_size_filter"></in>
+        <out id="video_7_mp2v_encoder"></out>
+        <option name="cc_fields" value="0"></option>
+        <option name="field_order" value="2"></option>
+        <option name="closed_gop" value="0"></option>
+        <option name="scene_change" value="0E0"></option>
+        <option name="intra_dc" value="8"></option>
+        <option name="bitrate" value="3000"></option>
+        <option name="profile" value="4"></option>
+        <option name="force-format" value="IYUV"></option>
+        <option name="vbv_buffer" value="1.000000"></option>
+        <option name="use_2pass" value="0E0"></option>
+        <option name="b_frames" value="2"></option>
+        <option name="level" value="8"></option>
+        <option name="add_vbi" value="0E0"></option>
+        <option name="gop_preset" value="6"></option>
+        <option name="cc_type" value="1"></option>
+        <option name="use_bitrate" value="0"></option>
+        <option name="bitrate_control" value="2"></option>
+        <option name="aspect_ratio" value="2"></option>
+        <option name="quant" value="50"></option>
+        <option name="max_bitrate" value="3000"></option>
+        <option name="p_frames" value="1"></option>
+        <option name="force_sequence_header" value="0E0"></option>
+        <option name="pulldown" value="0"></option>
+        <option name="vbi_pad_color" value="16"></option>
+    </encoder>
+    <exporter type="mpeg" media="movie" out="!DSTPATH!/!NAME!-!SETTING!.mpg">
+        <in id="video_7_mp2v_encoder"></in>
+        <in id="audio_4_mp2a_encoder"></in>
+        <option name="packetSize" value="2048"></option>
+        <option name="stream_type" value="0"></option>
+    </exporter>
+</job>]]></string>
+        <bool name="sns">no</bool>
+        <special name="source-url">#deferred-var-string#dest-url</special>
+    </properties>
+    <string name="name">Encode MQ MPEG2 4x3 For TRMS</string>
+    <string name="plugin-id">task/regular/ogencoder/1.0</string>
+</task>
