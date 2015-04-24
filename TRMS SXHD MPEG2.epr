@@ -1,0 +1,2707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PremiereData Version="3">
+	<StandardUserFilters ObjectRef="135"/>
+	<ExportXMPOptionKey>10</ExportXMPOptionKey>
+	<StandardFilters Version="1">
+		<UseFrameBlending>false</UseFrameBlending>
+		<UsePreview>false</UsePreview>
+		<UseMaximumRenderQuality>false</UseMaximumRenderQuality>
+		<DeinterlaceState>false</DeinterlaceState>
+		<CropType>0</CropType>
+		<CropRect>0,0,0,0</CropRect>
+		<CropState>false</CropState>
+	</StandardFilters>
+	<FolderDisplayPath></FolderDisplayPath>
+	<DoEmulation>false</DoEmulation>
+	<DoVideo>true</DoVideo>
+	<DoAudio>true</DoAudio>
+	<PresetID>826bfe80-e048-4ad2-9625-bc4ab112c6f6</PresetID>
+	<CaptionParamContainer ObjectRef="143"/>
+	<ExportParamContainer ObjectRef="1"/>
+	<ExporterFileType>1836082994</ExporterFileType>
+	<ExporterClassID>1280266825</ExporterClassID>
+	<ExporterName></ExporterName>
+	<PresetUserComments></PresetUserComments>
+	<PresetComments>Custom</PresetComments>
+	<PresetName>TRMS SXHD MPEG2</PresetName>
+	<ExporterParamContainer ObjectID="1" ClassID="5c20a4a5-5e7c-4032-85b8-26ad4531fe7b" Version="1">
+		<ContainedParamsVersion>1</ContainedParamsVersion>
+		<ParamContainerItems Version="1">
+			<ParamContainerItem Index="0" ObjectRef="2"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="2" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamTargetBitrate>0</ParamTargetBitrate>
+		<ParamTargetID>0</ParamTargetID>
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ExporterChildParams ObjectRef="3"/>
+		<ParamName></ParamName>
+		<ParamIdentifier>0</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>0</ParamOrdinalValue>
+		<ParamType>10</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParamContainer ObjectID="3" ClassID="5c20a4a5-5e7c-4032-85b8-26ad4531fe7b" Version="1">
+		<ContainedParamsVersion>1</ContainedParamsVersion>
+		<ParamContainerItems Version="1">
+			<ParamContainerItem Index="0" ObjectRef="4"/>
+			<ParamContainerItem Index="1" ObjectRef="57"/>
+			<ParamContainerItem Index="2" ObjectRef="82"/>
+			<ParamContainerItem Index="3" ObjectRef="95"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="4" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ExporterChildParams ObjectRef="5"/>
+		<ParamIdentifier>ADBEVideoTabGroup</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>0</ParamOrdinalValue>
+		<ParamType>8</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParamContainer ObjectID="5" ClassID="5c20a4a5-5e7c-4032-85b8-26ad4531fe7b" Version="1">
+		<ContainedParamsVersion>1</ContainedParamsVersion>
+		<ParamContainerItems Version="1">
+			<ParamContainerItem Index="0" ObjectRef="6"/>
+			<ParamContainerItem Index="1" ObjectRef="9"/>
+			<ParamContainerItem Index="2" ObjectRef="24"/>
+			<ParamContainerItem Index="3" ObjectRef="32"/>
+			<ParamContainerItem Index="4" ObjectRef="38"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="6" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ExporterChildParams ObjectRef="7"/>
+		<ParamIdentifier>ADBEVideoCodecGroup</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>true</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>0</ParamOrdinalValue>
+		<ParamType>8</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParamContainer ObjectID="7" ClassID="5c20a4a5-5e7c-4032-85b8-26ad4531fe7b" Version="1">
+		<ContainedParamsVersion>1</ContainedParamsVersion>
+		<ParamContainerItems Version="1">
+			<ParamContainerItem Index="0" ObjectRef="8"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="8" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoCodec</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>0</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>1296257108</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="9" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ExporterChildParams ObjectRef="10"/>
+		<ParamIdentifier>ADBEBasicVideoGroup</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>1</ParamOrdinalValue>
+		<ParamType>8</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParamContainer ObjectID="10" ClassID="5c20a4a5-5e7c-4032-85b8-26ad4531fe7b" Version="1">
+		<ContainedParamsVersion>1</ContainedParamsVersion>
+		<ParamContainerItems Version="1">
+			<ParamContainerItem Index="0" ObjectRef="11"/>
+			<ParamContainerItem Index="1" ObjectRef="12"/>
+			<ParamContainerItem Index="2" ObjectRef="13"/>
+			<ParamContainerItem Index="3" ObjectRef="14"/>
+			<ParamContainerItem Index="4" ObjectRef="15"/>
+			<ParamContainerItem Index="5" ObjectRef="16"/>
+			<ParamContainerItem Index="6" ObjectRef="17"/>
+			<ParamContainerItem Index="7" ObjectRef="18"/>
+			<ParamContainerItem Index="8" ObjectRef="19"/>
+			<ParamContainerItem Index="9" ObjectRef="20"/>
+			<ParamContainerItem Index="10" ObjectRef="21"/>
+			<ParamContainerItem Index="11" ObjectRef="22"/>
+			<ParamContainerItem Index="12" ObjectRef="23"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="11" ClassID="d0f6b8af-8ddb-4381-acf8-3e817480d07d" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamArbData Encoding="base64" Checksum="2374864269">AAAAAA==</ParamArbData>
+		<ParamIdentifier>ADBEVideoMatchSource</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>0</ParamOrdinalValue>
+		<ParamType>7</ParamType>
+		<ParamValue>false</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="12" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoQuality</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>true</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>1</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>75</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="13" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoWidth</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>2</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>1920</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="14" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoHeight</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>3</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>1080</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="15" ClassID="8def7863-204e-4206-8791-54a78f15c66b" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoFPS</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>4</ParamOrdinalValue>
+		<ParamType>4</ParamType>
+		<ParamValue>8475667200</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="16" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoPulldown</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>true</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>5</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="17" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoFieldType</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>6</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>1</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="18" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoDisplayAspect</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>7</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>2</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="19" ClassID="8d9836e8-d00a-4a00-bfc0-dfbb73540736" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoAspect</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>true</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>8</ParamOrdinalValue>
+		<ParamType>11</ParamType>
+		<ParamValue>17280,17280</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="20" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBETVStandard</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>9</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="21" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoProfile</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>10</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>4</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="22" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoMPEGProfileLevel</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>11</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>4</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="23" ClassID="d0f6b8af-8ddb-4381-acf8-3e817480d07d" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBERenderDeepColor</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>12</ParamOrdinalValue>
+		<ParamType>1</ParamType>
+		<ParamValue>false</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="24" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ExporterChildParams ObjectRef="25"/>
+		<ParamIdentifier>ADBEVideoBitrateSettingsGroup</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>2</ParamOrdinalValue>
+		<ParamType>8</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParamContainer ObjectID="25" ClassID="5c20a4a5-5e7c-4032-85b8-26ad4531fe7b" Version="1">
+		<ContainedParamsVersion>1</ContainedParamsVersion>
+		<ParamContainerItems Version="1">
+			<ParamContainerItem Index="0" ObjectRef="26"/>
+			<ParamContainerItem Index="1" ObjectRef="27"/>
+			<ParamContainerItem Index="2" ObjectRef="28"/>
+			<ParamContainerItem Index="3" ObjectRef="29"/>
+			<ParamContainerItem Index="4" ObjectRef="30"/>
+			<ParamContainerItem Index="5" ObjectRef="31"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="26" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoBitrateEncoding</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>0</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="27" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoBitrateLevel</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>true</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>1</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>2</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="28" ClassID="018cf63d-c58d-4d39-97df-36b6b2d6ef88" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoBitrate</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>true</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>2</ParamOrdinalValue>
+		<ParamType>3</ParamType>
+		<ParamValue>30.</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="29" ClassID="018cf63d-c58d-4d39-97df-36b6b2d6ef88" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoMinBitrate</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>true</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>true</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>3</ParamOrdinalValue>
+		<ParamType>3</ParamType>
+		<ParamValue>14.413106382978725150678656</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="30" ClassID="018cf63d-c58d-4d39-97df-36b6b2d6ef88" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoTargetBitrate</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>true</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>true</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>4</ParamOrdinalValue>
+		<ParamType>3</ParamType>
+		<ParamValue>15.</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="31" ClassID="018cf63d-c58d-4d39-97df-36b6b2d6ef88" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoMaxBitrate</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>true</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>true</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>5</ParamOrdinalValue>
+		<ParamType>3</ParamType>
+		<ParamValue>18.5</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="32" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ExporterChildParams ObjectRef="33"/>
+		<ParamIdentifier>ADBEVideoGOPSettingsGroup</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>3</ParamOrdinalValue>
+		<ParamType>8</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParamContainer ObjectID="33" ClassID="5c20a4a5-5e7c-4032-85b8-26ad4531fe7b" Version="1">
+		<ContainedParamsVersion>1</ContainedParamsVersion>
+		<ParamContainerItems Version="1">
+			<ParamContainerItem Index="0" ObjectRef="34"/>
+			<ParamContainerItem Index="1" ObjectRef="35"/>
+			<ParamContainerItem Index="2" ObjectRef="36"/>
+			<ParamContainerItem Index="3" ObjectRef="37"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="34" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoMFrames</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>0</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>3</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="35" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoNFrames</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>1</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>15</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="36" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoClosedGOPInterval</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>2</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="37" ClassID="d0f6b8af-8ddb-4381-acf8-3e817480d07d" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoAutoGOPPlacement</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>3</ParamOrdinalValue>
+		<ParamType>1</ParamType>
+		<ParamValue>false</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="38" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ExporterChildParams ObjectRef="39"/>
+		<ParamIdentifier>ADBEVideoAdvancedSettingsGroup</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>4</ParamOrdinalValue>
+		<ParamType>8</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParamContainer ObjectID="39" ClassID="5c20a4a5-5e7c-4032-85b8-26ad4531fe7b" Version="1">
+		<ContainedParamsVersion>1</ContainedParamsVersion>
+		<ParamContainerItems Version="1">
+			<ParamContainerItem Index="0" ObjectRef="40"/>
+			<ParamContainerItem Index="1" ObjectRef="41"/>
+			<ParamContainerItem Index="2" ObjectRef="42"/>
+			<ParamContainerItem Index="3" ObjectRef="43"/>
+			<ParamContainerItem Index="4" ObjectRef="44"/>
+			<ParamContainerItem Index="5" ObjectRef="45"/>
+			<ParamContainerItem Index="6" ObjectRef="46"/>
+			<ParamContainerItem Index="7" ObjectRef="47"/>
+			<ParamContainerItem Index="8" ObjectRef="48"/>
+			<ParamContainerItem Index="9" ObjectRef="49"/>
+			<ParamContainerItem Index="10" ObjectRef="50"/>
+			<ParamContainerItem Index="11" ObjectRef="51"/>
+			<ParamContainerItem Index="12" ObjectRef="52"/>
+			<ParamContainerItem Index="13" ObjectRef="53"/>
+			<ParamContainerItem Index="14" ObjectRef="54"/>
+			<ParamContainerItem Index="15" ObjectRef="55"/>
+			<ParamContainerItem Index="16" ObjectRef="56"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="40" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoMacroblockQuantization</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>0</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>10</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="41" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoVBVBufferSize</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>1</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>224</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="42" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoNoiseControl</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>2</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="43" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoWriteSDE</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>3</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>1</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="44" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoVideoFormat</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>4</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>2</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="45" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoHorizontal</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>5</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>1920</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="46" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoVertical</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>6</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>1080</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="47" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoColorPrimaries</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>7</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>1</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="48" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoTransferChars</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>8</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>1</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="49" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoMatrixCoefficients</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>9</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>1</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="50" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoForceVBVDelay</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>10</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="51" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoIntraDCPrecision</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>11</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>1</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="52" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoWriteSeqEndCode</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>12</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>1</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="53" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoEmbedSVCDUserBlks</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>13</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="54" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoIgnoreFrameInterval</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>14</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="55" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoMinFramePercentage</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>15</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>25</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="56" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoPadFramePercentage</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>16</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="57" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ExporterChildParams ObjectRef="58"/>
+		<ParamIdentifier>ADBEAudioTabGroup</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>1</ParamOrdinalValue>
+		<ParamType>8</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParamContainer ObjectID="58" ClassID="5c20a4a5-5e7c-4032-85b8-26ad4531fe7b" Version="1">
+		<ContainedParamsVersion>1</ContainedParamsVersion>
+		<ParamContainerItems Version="1">
+			<ParamContainerItem Index="0" ObjectRef="59"/>
+			<ParamContainerItem Index="1" ObjectRef="62"/>
+			<ParamContainerItem Index="2" ObjectRef="71"/>
+			<ParamContainerItem Index="3" ObjectRef="74"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="59" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ExporterChildParams ObjectRef="60"/>
+		<ParamIdentifier>ADBEAudioCodecGroup</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>0</ParamOrdinalValue>
+		<ParamType>8</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParamContainer ObjectID="60" ClassID="5c20a4a5-5e7c-4032-85b8-26ad4531fe7b" Version="1">
+		<ContainedParamsVersion>1</ContainedParamsVersion>
+		<ParamContainerItems Version="1">
+			<ParamContainerItem Index="0" ObjectRef="61"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="61" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEAudioFormat</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>0</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>1297106247</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="62" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ExporterChildParams ObjectRef="63"/>
+		<ParamIdentifier>ADBEBasicAudioGroup</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>1</ParamOrdinalValue>
+		<ParamType>8</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParamContainer ObjectID="63" ClassID="5c20a4a5-5e7c-4032-85b8-26ad4531fe7b" Version="1">
+		<ContainedParamsVersion>1</ContainedParamsVersion>
+		<ParamContainerItems Version="1">
+			<ParamContainerItem Index="0" ObjectRef="64"/>
+			<ParamContainerItem Index="1" ObjectRef="65"/>
+			<ParamContainerItem Index="2" ObjectRef="66"/>
+			<ParamContainerItem Index="3" ObjectRef="67"/>
+			<ParamContainerItem Index="4" ObjectRef="68"/>
+			<ParamContainerItem Index="5" ObjectRef="69"/>
+			<ParamContainerItem Index="6" ObjectRef="70"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="64" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEAudioCodec</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>0</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>1296257108</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="65" ClassID="d0f6b8af-8ddb-4381-acf8-3e817480d07d" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEAudioCodecPrefsButton</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>true</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>1</ParamOrdinalValue>
+		<ParamType>7</ParamType>
+		<ParamValue>false</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="66" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEAudioRatePerSecond</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>2</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>48000</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="67" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEAudioNumChannels</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>true</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>3</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>2</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="68" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEAudioSampleType</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>4</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>1</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="69" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEAudioLayer</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>5</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>2</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="70" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEAudioMode</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>6</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="71" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ExporterChildParams ObjectRef="72"/>
+		<ParamIdentifier>ADBEAudioBitrateSettingsGroup</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>2</ParamOrdinalValue>
+		<ParamType>8</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParamContainer ObjectID="72" ClassID="5c20a4a5-5e7c-4032-85b8-26ad4531fe7b" Version="1">
+		<ContainedParamsVersion>1</ContainedParamsVersion>
+		<ParamContainerItems Version="1">
+			<ParamContainerItem Index="0" ObjectRef="73"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="73" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEAudioBitrate</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>0</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>384</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="74" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ExporterChildParams ObjectRef="75"/>
+		<ParamIdentifier>ADBEAudioAdvancedSettingsGroup</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>3</ParamOrdinalValue>
+		<ParamType>8</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParamContainer ObjectID="75" ClassID="5c20a4a5-5e7c-4032-85b8-26ad4531fe7b" Version="1">
+		<ContainedParamsVersion>1</ContainedParamsVersion>
+		<ParamContainerItems Version="1">
+			<ParamContainerItem Index="0" ObjectRef="76"/>
+			<ParamContainerItem Index="1" ObjectRef="77"/>
+			<ParamContainerItem Index="2" ObjectRef="78"/>
+			<ParamContainerItem Index="3" ObjectRef="79"/>
+			<ParamContainerItem Index="4" ObjectRef="80"/>
+			<ParamContainerItem Index="5" ObjectRef="81"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="76" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEAudioPsychMode</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>0</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>2</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="77" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEAudioDeemphasis</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>1</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="78" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEAudioEnableCRC</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>2</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="79" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEAudioSetPrivateBit</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>3</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="80" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEAudioSetCopyrightBit</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>4</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="81" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEAudioSetOriginalBit</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>5</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="82" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ExporterChildParams ObjectRef="83"/>
+		<ParamIdentifier>ADBEMuxTabGroup</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>2</ParamOrdinalValue>
+		<ParamType>8</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParamContainer ObjectID="83" ClassID="5c20a4a5-5e7c-4032-85b8-26ad4531fe7b" Version="1">
+		<ContainedParamsVersion>1</ContainedParamsVersion>
+		<ParamContainerItems Version="1">
+			<ParamContainerItem Index="0" ObjectRef="84"/>
+			<ParamContainerItem Index="1" ObjectRef="87"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="84" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ExporterChildParams ObjectRef="85"/>
+		<ParamIdentifier>ADBEBasicMuxGroup</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>0</ParamOrdinalValue>
+		<ParamType>8</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParamContainer ObjectID="85" ClassID="5c20a4a5-5e7c-4032-85b8-26ad4531fe7b" Version="1">
+		<ContainedParamsVersion>1</ContainedParamsVersion>
+		<ParamContainerItems Version="1">
+			<ParamContainerItem Index="0" ObjectRef="86"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="86" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVMCMux_Type</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>0</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="87" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ExporterChildParams ObjectRef="88"/>
+		<ParamIdentifier>ADBEMuxDetailsGroup</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>1</ParamOrdinalValue>
+		<ParamType>8</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParamContainer ObjectID="88" ClassID="5c20a4a5-5e7c-4032-85b8-26ad4531fe7b" Version="1">
+		<ContainedParamsVersion>1</ContainedParamsVersion>
+		<ParamContainerItems Version="1">
+			<ParamContainerItem Index="0" ObjectRef="89"/>
+			<ParamContainerItem Index="1" ObjectRef="90"/>
+			<ParamContainerItem Index="2" ObjectRef="91"/>
+			<ParamContainerItem Index="3" ObjectRef="92"/>
+			<ParamContainerItem Index="4" ObjectRef="93"/>
+			<ParamContainerItem Index="5" ObjectRef="94"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="89" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEMuxBitrateType</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>0</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>1</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="90" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEMuxMuxRate</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>true</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>1</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="91" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEMuxPacketSize</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>2</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>2048</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="92" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEMuxPacketsPerPack</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>3</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>1</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="93" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEMuxVideoBufferSize</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>4</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="94" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEMuxAudioBufferSize</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>5</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>4</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="95" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ExporterChildParams ObjectRef="96"/>
+		<ParamIdentifier>PostEncodeHostMultiGroup</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>3</ParamOrdinalValue>
+		<ParamType>8</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParamContainer ObjectID="96" ClassID="5c20a4a5-5e7c-4032-85b8-26ad4531fe7b" Version="1">
+		<ContainedParamsVersion>1</ContainedParamsVersion>
+		<ParamContainerItems Version="1">
+			<ParamContainerItem Index="0" ObjectRef="97"/>
+			<ParamContainerItem Index="1" ObjectRef="109"/>
+			<ParamContainerItem Index="2" ObjectRef="121"/>
+			<ParamContainerItem Index="3" ObjectRef="125"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="97" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ExporterChildParams ObjectRef="98"/>
+		<ParamIdentifier>ADBEYouTubeGroup</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>true</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>0</ParamOrdinalValue>
+		<ParamType>8</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParamContainer ObjectID="98" ClassID="5c20a4a5-5e7c-4032-85b8-26ad4531fe7b" Version="1">
+		<ContainedParamsVersion>1</ContainedParamsVersion>
+		<ParamContainerItems Version="1">
+			<ParamContainerItem Index="0" ObjectRef="99"/>
+			<ParamContainerItem Index="1" ObjectRef="103"/>
+			<ParamContainerItem Index="2" ObjectRef="104"/>
+			<ParamContainerItem Index="3" ObjectRef="105"/>
+			<ParamContainerItem Index="4" ObjectRef="106"/>
+			<ParamContainerItem Index="5" ObjectRef="107"/>
+			<ParamContainerItem Index="6" ObjectRef="108"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="99" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ExporterChildParams ObjectRef="100"/>
+		<ParamIdentifier>ADBEYouTubeLoginSubGroup</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>true</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>0</ParamOrdinalValue>
+		<ParamType>8</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParamContainer ObjectID="100" ClassID="5c20a4a5-5e7c-4032-85b8-26ad4531fe7b" Version="1">
+		<ContainedParamsVersion>1</ContainedParamsVersion>
+		<ParamContainerItems Version="1">
+			<ParamContainerItem Index="0" ObjectRef="101"/>
+			<ParamContainerItem Index="1" ObjectRef="102"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="101" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEYouTubeStatusText</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>true</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>0</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="102" ClassID="d0f6b8af-8ddb-4381-acf8-3e817480d07d" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEYouTubeLogin</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>1</ParamOrdinalValue>
+		<ParamType>7</ParamType>
+		<ParamValue>false</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="103" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEYouTubePrivacy</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>1</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>2</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="104" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEYouTubeCategory</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>true</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>2</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="105" ClassID="a43ab77d-3a01-4173-b6ea-aeb9b4ae884b" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEYouTubeTags</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>3</ParamOrdinalValue>
+		<ParamType>6</ParamType>
+		<ParamValue></ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="106" ClassID="a43ab77d-3a01-4173-b6ea-aeb9b4ae884b" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEYouTubeDescription</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>4</ParamOrdinalValue>
+		<ParamType>6</ParamType>
+		<ParamValue></ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="107" ClassID="d0f6b8af-8ddb-4381-acf8-3e817480d07d" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEYouTubeDeleteLocalFile</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>5</ParamOrdinalValue>
+		<ParamType>1</ParamType>
+		<ParamValue>false</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="108" ClassID="a43ab77d-3a01-4173-b6ea-aeb9b4ae884b" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEYouTubeRefreshToken</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>true</ParamIsHidden>
+		<ParamIsDisabled>true</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>6</ParamOrdinalValue>
+		<ParamType>6</ParamType>
+		<ParamValue></ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="109" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ExporterChildParams ObjectRef="110"/>
+		<ParamIdentifier>ADBEVimeoGroup</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>true</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>1</ParamOrdinalValue>
+		<ParamType>8</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParamContainer ObjectID="110" ClassID="5c20a4a5-5e7c-4032-85b8-26ad4531fe7b" Version="1">
+		<ContainedParamsVersion>1</ContainedParamsVersion>
+		<ParamContainerItems Version="1">
+			<ParamContainerItem Index="0" ObjectRef="111"/>
+			<ParamContainerItem Index="1" ObjectRef="115"/>
+			<ParamContainerItem Index="2" ObjectRef="116"/>
+			<ParamContainerItem Index="3" ObjectRef="117"/>
+			<ParamContainerItem Index="4" ObjectRef="118"/>
+			<ParamContainerItem Index="5" ObjectRef="119"/>
+			<ParamContainerItem Index="6" ObjectRef="120"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="111" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ExporterChildParams ObjectRef="112"/>
+		<ParamIdentifier>ADBEVimeoLoginSubGroup</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>true</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>0</ParamOrdinalValue>
+		<ParamType>8</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParamContainer ObjectID="112" ClassID="5c20a4a5-5e7c-4032-85b8-26ad4531fe7b" Version="1">
+		<ContainedParamsVersion>1</ContainedParamsVersion>
+		<ParamContainerItems Version="1">
+			<ParamContainerItem Index="0" ObjectRef="113"/>
+			<ParamContainerItem Index="1" ObjectRef="114"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="113" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVimeoStatusText</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>true</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>0</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="114" ClassID="d0f6b8af-8ddb-4381-acf8-3e817480d07d" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVimeoLogin</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>1</ParamOrdinalValue>
+		<ParamType>7</ParamType>
+		<ParamValue>false</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="115" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVimeoPrivacy</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>1</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="116" ClassID="a43ab77d-3a01-4173-b6ea-aeb9b4ae884b" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVimeoPassword</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>true</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>true</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>2</ParamOrdinalValue>
+		<ParamType>6</ParamType>
+		<ParamValue></ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="117" ClassID="a43ab77d-3a01-4173-b6ea-aeb9b4ae884b" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVimeoTags</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>3</ParamOrdinalValue>
+		<ParamType>6</ParamType>
+		<ParamValue></ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="118" ClassID="a43ab77d-3a01-4173-b6ea-aeb9b4ae884b" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVimeoDescription</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>4</ParamOrdinalValue>
+		<ParamType>6</ParamType>
+		<ParamValue></ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="119" ClassID="d0f6b8af-8ddb-4381-acf8-3e817480d07d" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVimeoDeleteLocalFile</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>5</ParamOrdinalValue>
+		<ParamType>1</ParamType>
+		<ParamValue>false</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="120" ClassID="a43ab77d-3a01-4173-b6ea-aeb9b4ae884b" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVimeoAuthorizationToken</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>true</ParamIsHidden>
+		<ParamIsDisabled>true</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>6</ParamOrdinalValue>
+		<ParamType>6</ParamType>
+		<ParamValue></ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="121" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ExporterChildParams ObjectRef="122"/>
+		<ParamIdentifier>ADBECCGroup</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>true</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>2</ParamOrdinalValue>
+		<ParamType>8</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParamContainer ObjectID="122" ClassID="5c20a4a5-5e7c-4032-85b8-26ad4531fe7b" Version="1">
+		<ContainedParamsVersion>1</ContainedParamsVersion>
+		<ParamContainerItems Version="1">
+			<ParamContainerItem Index="0" ObjectRef="123"/>
+			<ParamContainerItem Index="1" ObjectRef="124"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="123" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBECCFileSyncFolder</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>true</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>0</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="124" ClassID="a43ab77d-3a01-4173-b6ea-aeb9b4ae884b" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBECCFileSyncSubFolder</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>1</ParamOrdinalValue>
+		<ParamType>6</ParamType>
+		<ParamValue></ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="125" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ExporterChildParams ObjectRef="126"/>
+		<ParamIdentifier>ADBEFTPGroup</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>true</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>3</ParamOrdinalValue>
+		<ParamType>8</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParamContainer ObjectID="126" ClassID="5c20a4a5-5e7c-4032-85b8-26ad4531fe7b" Version="1">
+		<ContainedParamsVersion>1</ContainedParamsVersion>
+		<ParamContainerItems Version="1">
+			<ParamContainerItem Index="0" ObjectRef="127"/>
+			<ParamContainerItem Index="1" ObjectRef="128"/>
+			<ParamContainerItem Index="2" ObjectRef="129"/>
+			<ParamContainerItem Index="3" ObjectRef="130"/>
+			<ParamContainerItem Index="4" ObjectRef="131"/>
+			<ParamContainerItem Index="5" ObjectRef="132"/>
+			<ParamContainerItem Index="6" ObjectRef="133"/>
+			<ParamContainerItem Index="7" ObjectRef="134"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="127" ClassID="a43ab77d-3a01-4173-b6ea-aeb9b4ae884b" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEFTPUserID</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>0</ParamOrdinalValue>
+		<ParamType>6</ParamType>
+		<ParamValue></ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="128" ClassID="a43ab77d-3a01-4173-b6ea-aeb9b4ae884b" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEFTPPassword</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>true</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>1</ParamOrdinalValue>
+		<ParamType>6</ParamType>
+		<ParamValue></ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="129" ClassID="a43ab77d-3a01-4173-b6ea-aeb9b4ae884b" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEFTPServerAddress</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>2</ParamOrdinalValue>
+		<ParamType>6</ParamType>
+		<ParamValue></ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="130" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEFTPPort</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>3</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>21</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="131" ClassID="a43ab77d-3a01-4173-b6ea-aeb9b4ae884b" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEFTPRemotePath</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>4</ParamOrdinalValue>
+		<ParamType>6</ParamType>
+		<ParamValue></ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="132" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEFTPRetries</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>5</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>1</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="133" ClassID="d0f6b8af-8ddb-4381-acf8-3e817480d07d" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEFTPDeleteLocalFileAfterTransfer</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>6</ParamOrdinalValue>
+		<ParamType>1</ParamType>
+		<ParamValue>false</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="134" ClassID="d0f6b8af-8ddb-4381-acf8-3e817480d07d" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEFTPTest</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>7</ParamOrdinalValue>
+		<ParamType>7</ParamType>
+		<ParamValue>false</ParamValue>
+	</ExporterParam>
+	<StandardFilterContainer ObjectID="135" ClassID="00c9f895-891b-412d-9180-38b10a29c9a8" Version="1">
+		<FilterCount>4</FilterCount>
+		<FilterItem Index="0" ObjectRef="136"/>
+		<FilterItem Index="1" ObjectRef="140"/>
+		<FilterItem Index="2" ObjectRef="141"/>
+		<FilterItem Index="3" ObjectRef="142"/>
+	</StandardFilterContainer>
+	<StandardFilterWrapperLumetri ObjectID="136" ClassID="a3da719f-5b68-4fbe-af95-d0c3e0127e5e" Version="1">
+		<BaseStorageVersion>1</BaseStorageVersion>
+		<LoadedEffectName></LoadedEffectName>
+		<UiInstance>0</UiInstance>
+		<Enabled>false</Enabled>
+		<FilterPreset ObjectRef="137"/>
+	</StandardFilterWrapperLumetri>
+	<FilterPreset ObjectID="137" ClassID="ee52a7d2-069e-47f7-aa30-e3e3286b65a3" Version="3">
+		<Node Version="1">
+		</Node>
+		<TransitionDuration>0</TransitionDuration>
+		<Speed>1.</Speed>
+		<AnchorOutPoint>0</AnchorOutPoint>
+		<AnchorInPoint>0</AnchorInPoint>
+		<MediaType>228cda18-3625-4d2d-951e-348879e4ed93</MediaType>
+		<Type>1</Type>
+		<Component ObjectRef="138"/>
+		<FilterMatchName>AE.ADBE Lumetri</FilterMatchName>
+		<Description>InternalSerialize</Description>
+	</FilterPreset>
+	<VideoFilterComponent ObjectID="138" ClassID="d10da199-beea-4dd1-b941-ed3a78766d50" Version="7">
+		<VideoFilterType>2</VideoFilterType>
+		<MatchName>AE.ADBE Lumetri</MatchName>
+		<Component Version="4">
+			<Node Version="1">
+			</Node>
+			<InstanceName></InstanceName>
+			<Intrinsic>false</Intrinsic>
+			<Params Version="1">
+				<Param Index="0" ObjectRef="139"/>
+			</Params>
+			<DisplayName>Lumetri</DisplayName>
+			<Bypass>false</Bypass>
+			<ID>0</ID>
+		</Component>
+	</VideoFilterComponent>
+	<ArbVideoComponentParam ObjectID="139" ClassID="313e54d4-6903-49ad-b0bf-8262cdd10f4e" Version="2">
+		<Node Version="1">
+		</Node>
+		<ParameterID>1</ParameterID>
+		<UnitsString></UnitsString>
+		<KeyframeSetSize>0</KeyframeSetSize>
+		<StartKeyframeValue Encoding="base64" Checksum="4294940310">/v4=</StartKeyframeValue>
+		<StartKeyframePosition>-91445760000000000 </StartKeyframePosition>
+		<ParameterControlType>10</ParameterControlType>
+		<DiscontinuousInterpolate>true</DiscontinuousInterpolate>
+		<IsLocked>false</IsLocked>
+		<IsTimeVarying>false</IsTimeVarying>
+		<Name>File Path</Name>
+	</ArbVideoComponentParam>
+	<StandardFilterWrapperOverlay ObjectID="140" ClassID="13830401-7ec6-45df-a2e1-d8f629e899b2" Version="1">
+		<ReferencePixelAspectRatio>1.</ReferencePixelAspectRatio>
+		<ReferenceFrameHeight>0</ReferenceFrameHeight>
+		<ReferenceFrameWidth>0</ReferenceFrameWidth>
+		<PosSizeStorageVersion>1</PosSizeStorageVersion>
+		<BaseStorageVersion>1</BaseStorageVersion>
+		<AbsoluteSizing>false</AbsoluteSizing>
+		<Size>100.</Size>
+		<PositionY>0.</PositionY>
+		<PositionX>0.</PositionX>
+		<PositionIndex>4</PositionIndex>
+		<SourceFilePath></SourceFilePath>
+		<Opacity>100</Opacity>
+		<UiInstance>0</UiInstance>
+		<Enabled>false</Enabled>
+	</StandardFilterWrapperOverlay>
+	<StandardFilterWrapperClipName ObjectID="141" ClassID="2cf9288f-faea-4461-ad17-89705ab2b63a" Version="1">
+		<ReferencePixelAspectRatio>1.</ReferencePixelAspectRatio>
+		<ReferenceFrameHeight>0</ReferenceFrameHeight>
+		<ReferenceFrameWidth>0</ReferenceFrameWidth>
+		<PosSizeStorageVersion>1</PosSizeStorageVersion>
+		<BaseStorageVersion>1</BaseStorageVersion>
+		<AbsoluteSizing>false</AbsoluteSizing>
+		<Size>15.</Size>
+		<PositionY>0.</PositionY>
+		<PositionX>0.</PositionX>
+		<PositionIndex>1</PositionIndex>
+		<Opacity>40</Opacity>
+		<Suffix></Suffix>
+		<TextType>1</TextType>
+		<Prefix></Prefix>
+		<UiInstance>0</UiInstance>
+		<Enabled>false</Enabled>
+	</StandardFilterWrapperClipName>
+	<StandardFilterWrapperTimecode ObjectID="142" ClassID="50810324-4cbd-4897-9eff-e328663a83c9" Version="1">
+		<ReferencePixelAspectRatio>1.</ReferencePixelAspectRatio>
+		<ReferenceFrameHeight>0</ReferenceFrameHeight>
+		<ReferenceFrameWidth>0</ReferenceFrameWidth>
+		<PosSizeStorageVersion>1</PosSizeStorageVersion>
+		<BaseStorageVersion>1</BaseStorageVersion>
+		<Offset>0</Offset>
+		<GenerateTimecode>0</GenerateTimecode>
+		<GenerateFormat>2</GenerateFormat>
+		<SourceTypeIndex>0</SourceTypeIndex>
+		<ParameterOpacity>40</ParameterOpacity>
+		<AbsoluteSizing>false</AbsoluteSizing>
+		<Size>15.</Size>
+		<PositionY>0.</PositionY>
+		<PositionX>0.</PositionX>
+		<PositionIndex>7</PositionIndex>
+		<UiInstance>0</UiInstance>
+		<Enabled>false</Enabled>
+	</StandardFilterWrapperTimecode>
+	<ExporterParamContainer ObjectID="143" ClassID="5c20a4a5-5e7c-4032-85b8-26ad4531fe7b" Version="1">
+		<ContainedParamsVersion>1</ContainedParamsVersion>
+		<ParamContainerItems Version="1">
+			<ParamContainerItem Index="0" ObjectRef="144"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="144" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamTargetBitrate>0</ParamTargetBitrate>
+		<ParamTargetID>0</ParamTargetID>
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ExporterChildParams ObjectRef="145"/>
+		<ParamName>Captions</ParamName>
+		<ParamIdentifier>ADBECaptionTabGroup</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>0</ParamOrdinalValue>
+		<ParamType>10</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParamContainer ObjectID="145" ClassID="5c20a4a5-5e7c-4032-85b8-26ad4531fe7b" Version="1">
+		<ContainedParamsVersion>1</ContainedParamsVersion>
+		<ParamContainerItems Version="1">
+			<ParamContainerItem Index="0" ObjectRef="146"/>
+			<ParamContainerItem Index="1" ObjectRef="147"/>
+			<ParamContainerItem Index="2" ObjectRef="148"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="146" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBECaptionExportOption</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>0</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="147" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBECaptionFormat</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>true</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>1</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>0</ParamValue>
+	</ExporterParam>
+	<ExporterParam ObjectID="148" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBECaptionFrameRate</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>false</ParamIsHidden>
+		<ParamIsDisabled>true</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>false</ParamIsSlider>
+		<ParamDontSerializeValue>false</ParamDontSerializeValue>
+		<ParamOrdinalValue>2</ParamOrdinalValue>
+		<ParamType>2</ParamType>
+		<ParamValue>102</ParamValue>
+	</ExporterParam>
+</PremiereData>
